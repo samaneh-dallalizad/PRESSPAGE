@@ -1,0 +1,247 @@
+// Vitest Snapshot v1
+
+exports[`UsersComponent > users page must be able to delete 1`] = `
+<section
+  class="users"
+  data-v-7e71f38d=""
+>
+  <div
+    class="container mx-auto"
+    data-v-7e71f38d=""
+  >
+    <div
+      data-v-7e71f38d=""
+    >
+      <div
+        data-v-7e71f38d=""
+      >
+        <ul
+          class="grid gap-8 space-x-1 lg:grid-cols-4 my-20 proportional-nums"
+          data-v-7e71f38d=""
+        >
+          
+          <li
+            class="relative w-full bg-transparent p-5 bg-[#eeeeee] border-t-2 border-pink-500 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#eeeeee6e]"
+            data-v-7e71f38d=""
+          >
+            <img
+              alt="{{user.login}}"
+              class="w-1/2 mx-auto rounded-full"
+              data-v-7e71f38d=""
+              src="https://avatars.githubusercontent.com/u/2?v=4"
+            />
+            <h3
+              class="text-l text-center text-gray-800 mx-auto my-5"
+              data-v-7e71f38d=""
+            >
+              defunkt
+            </h3>
+            <button
+              class="bg-pink-500 hover:bg-gray-400 rounded-full text-white font-bold p-2 m-2 items-center absolute bottom-0 left-0"
+              data-v-7e71f38d=""
+            >
+              <svg
+                aria-hidden="true"
+                class="w-5"
+                data-v-7e71f38d=""
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </button>
+          </li>
+          <li
+            class="relative w-full bg-transparent p-5 bg-[#eeeeee] border-t-2 border-pink-500 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#eeeeee6e]"
+            data-v-7e71f38d=""
+          >
+            <img
+              alt="{{user.login}}"
+              class="w-1/2 mx-auto rounded-full"
+              data-v-7e71f38d=""
+              src="https://avatars.githubusercontent.com/u/3?v=4"
+            />
+            <h3
+              class="text-l text-center text-gray-800 mx-auto my-5"
+              data-v-7e71f38d=""
+            >
+              pjhyett
+            </h3>
+            <button
+              class="bg-pink-500 hover:bg-gray-400 rounded-full text-white font-bold p-2 m-2 items-center absolute bottom-0 left-0"
+              data-v-7e71f38d=""
+            >
+              <svg
+                aria-hidden="true"
+                class="w-5"
+                data-v-7e71f38d=""
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </button>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`UsersComponent > users page must be able to fetch and render same for static content 1`] = `
+<section
+  class="users"
+  data-v-7e71f38d=""
+>
+  <div
+    class="container mx-auto"
+    data-v-7e71f38d=""
+  >
+    <div
+      data-v-7e71f38d=""
+    >
+      <div
+        data-v-7e71f38d=""
+      >
+        <ul
+          class="grid gap-8 space-x-1 lg:grid-cols-4 my-20 proportional-nums"
+          data-v-7e71f38d=""
+        >
+          
+          <li
+            class="relative w-full bg-transparent p-5 bg-[#eeeeee] border-t-2 border-pink-500 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#eeeeee6e]"
+            data-v-7e71f38d=""
+          >
+            <img
+              alt="{{user.login}}"
+              class="w-1/2 mx-auto rounded-full"
+              data-v-7e71f38d=""
+              src="https://avatars.githubusercontent.com/u/1?v=4"
+            />
+            <h3
+              class="text-l text-center text-gray-800 mx-auto my-5"
+              data-v-7e71f38d=""
+            >
+              mojombo
+            </h3>
+            <button
+              class="bg-pink-500 hover:bg-gray-400 rounded-full text-white font-bold p-2 m-2 items-center absolute bottom-0 left-0"
+              data-v-7e71f38d=""
+            >
+              <svg
+                aria-hidden="true"
+                class="w-5"
+                data-v-7e71f38d=""
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </button>
+          </li>
+          <li
+            class="relative w-full bg-transparent p-5 bg-[#eeeeee] border-t-2 border-pink-500 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#eeeeee6e]"
+            data-v-7e71f38d=""
+          >
+            <img
+              alt="{{user.login}}"
+              class="w-1/2 mx-auto rounded-full"
+              data-v-7e71f38d=""
+              src="https://avatars.githubusercontent.com/u/2?v=4"
+            />
+            <h3
+              class="text-l text-center text-gray-800 mx-auto my-5"
+              data-v-7e71f38d=""
+            >
+              defunkt
+            </h3>
+            <button
+              class="bg-pink-500 hover:bg-gray-400 rounded-full text-white font-bold p-2 m-2 items-center absolute bottom-0 left-0"
+              data-v-7e71f38d=""
+            >
+              <svg
+                aria-hidden="true"
+                class="w-5"
+                data-v-7e71f38d=""
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </button>
+          </li>
+          <li
+            class="relative w-full bg-transparent p-5 bg-[#eeeeee] border-t-2 border-pink-500 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-[#eeeeee6e]"
+            data-v-7e71f38d=""
+          >
+            <img
+              alt="{{user.login}}"
+              class="w-1/2 mx-auto rounded-full"
+              data-v-7e71f38d=""
+              src="https://avatars.githubusercontent.com/u/3?v=4"
+            />
+            <h3
+              class="text-l text-center text-gray-800 mx-auto my-5"
+              data-v-7e71f38d=""
+            >
+              pjhyett
+            </h3>
+            <button
+              class="bg-pink-500 hover:bg-gray-400 rounded-full text-white font-bold p-2 m-2 items-center absolute bottom-0 left-0"
+              data-v-7e71f38d=""
+            >
+              <svg
+                aria-hidden="true"
+                class="w-5"
+                data-v-7e71f38d=""
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </button>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+`;

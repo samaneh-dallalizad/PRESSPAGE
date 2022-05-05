@@ -1,0 +1,26 @@
+// Vitest Snapshot v1
+
+exports[`HeaderComponent > header must always be the same 1`] = `
+<section
+  class="header"
+  data-v-301e671b=""
+>
+  <div
+    class="mx-auto w-1/4 my-10"
+    data-v-301e671b=""
+  >
+    <a
+      aria-current="page"
+      class="router-link-active router-link-exact-active"
+      data-v-301e671b=""
+      href="/"
+    >
+      <img
+        alt="presspage"
+        data-v-301e671b=""
+        src="src/assets/logo_presspage_white.png"
+      />
+    </a>
+  </div>
+</section>
+`;

@@ -1,0 +1,29 @@
+{
+  "name": "users",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^1.0.6",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "@vue/test-utils": "^2.0.0-rc.21",
+    "autoprefixer": "^10.4.6",
+    "cypress": "^9.6.0",
+    "jsdom": "^19.0.0",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.5",
+    "vitest": "^0.10.2"
+  }
+}

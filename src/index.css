@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    position: relative;
+    background-image: url(assets/banner-bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
